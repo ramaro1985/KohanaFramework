@@ -1,0 +1,123 @@
+/* icons */
+.auth-admin-groups-icon {
+	background-image: url(../images/groups48x48.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 48px;
+	width: 48px;
+}
+
+.auth-admin-members-icon {
+	background-image: url(../images/user48x48.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 48px;
+	width: 48px;
+}
+
+.auth-admin-privileges-icon {
+	background-image: url(../images/key48x48.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 48px;
+	width: 48px;
+}
+
+.auth-admin-signups-icon {
+	background-image: url(../images/signups48x48.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 48px;
+	width: 48px;
+}
+
+
+.auth-admin-group-addrol-icon {
+	background-image: url(../images/add16x16.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 16px;
+	width: 16px;
+}
+
+.auth-admin-group-editrol-icon {
+	background-image: url(../images/edit16x16.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 16px;
+	width: 16px;
+}
+
+
+.auth-admin-check-icon {
+	background-image: url(../images/ok.gif);
+	background-repeat: no-repeat;
+        background-position: center;
+	border: 0 none;
+	height: 16px;
+	width: 16px;
+}
+
+.auth-admin-group-delrol-icon {
+	background-image: url(../images/delete16x16.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 16px;
+	width: 16px;
+}
+
+.auth-admin-group-saverol-icon {
+	background-image: url(../images/save16x16.png);
+	background-repeat: none;
+	border: 0 none;
+	height: 16px;
+	width: 16px;
+}
+
+.auth-admin-permissions-icon {
+	background-image: url(../images/key16x16.gif);
+	background-repeat: none;
+	border: 0 none;
+	height: 48px;
+	width: 48px;
+}
+
+.auth-admin-inactive {
+	color: #ff0000 !important;
+}
+
+/* nav panel */
+.auth-admin-nav .thumb-wrap {
+	cursor: pointer;
+	float: left;
+	margin: 8px 0 0 8px;
+	text-align: center;
+}
+
+.auth-admin-nav .thumb {
+	background-position: center center;
+	background-repeat: no-repeat;
+	padding: 2px;
+}
+
+.auth-admin-nav .x-view-over {
+	background-color: #f1f1f1;
+}
+
+/* tooltip editor */
+.auth-admin-tooltip-editor .x-tip-ml {
+	padding-left: 3px;
+}
+
+.auth-admin-tooltip-editor .x-tip-mr {
+	padding-right: 3px;
+}
+
+.pref-check-tree .x-tree-elbow,.pref-check-tree .x-tree-elbow-end {
+    width: 1px;
+}
+
+.pref-check-tree .complete .x-tree-node-anchor span {
+    color: #777;
+    text-decoration: line-through;
+}

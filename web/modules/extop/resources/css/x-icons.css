@@ -1,0 +1,174 @@
+@CHARSET "UTF-8";
+
+/*
+ * Bogus icons.
+ */
+.app-bogus-icon {
+    background-image: url(../images/icons/16x16/bogus16x16.gif)
+        !important;
+}
+
+.x-btn-medium .app-bogus-icon {
+    background-image: url(../images/icons/24x24/bogus24x24.gif)
+        !important;
+}
+
+.x-btn-large .app-bogus-icon {
+    background-image: url(../images/icons/32x32/bogus32x32.gif)
+        !important;
+}
+
+.app-bogus-shortcut-icon {
+    background-image: url(../images/icons/48x48/bogus48x48.png)
+        !important;
+}
+
+/*
+ * Preferences icons.
+ */
+.app-pref-icon {
+    background-image: url(../images/icons/16x16/pref16x16.gif)
+        !important;
+}
+
+.x-btn-medium .app-pref-icon {
+    background-image: url(../images/icons/24x24/pref24x24.gif)
+        !important;
+}
+
+.x-btn-large .app-pref-icon {
+    background-image: url(../images/icons/32x32/pref32x32.gif)
+        !important;
+}
+
+.app-pref-shortcut-icon {
+    background-image: url(../images/icons/48x48/pref48x48.png)
+        !important;
+}
+
+/* Admin icons */
+.app-admin-icon {
+    background-image: url(../images/icons/16x16/admin16x16.gif) !important;
+}
+
+.x-btn-medium .app-admin-icon {
+    background-image: url(../images/icons/24x24/admin24x24.gif) !important;
+}
+
+.x-btn-large .app-admin-icon {
+    background-image: url(../images/icons/32x32/admin32x32.gif) !important;
+}
+
+.app-admin-shortcut-icon {
+    background-image: url(../images/icons/48x48/admin48x48.png) !important;
+}
+
+/* Calendar icons */
+.app-calendar-icon {
+    background-image: url(../images/icons/16x16/calendar16x16.png) !important;
+}
+
+.x-btn-medium .app-calendar-icon {
+    background-image: url(../images/icons/24x24/calendar24x24.png) !important;
+}
+
+.x-btn-large .app-calendar-icon {
+    background-image: url(../images/icons/32x32/calendar32x32.png) !important;
+}
+
+.app-calendar-shortcut-icon {
+    background-image: url(../images/icons/48x48/calendar48x48.png) !important;
+}
+
+/* Reportes icons */
+
+.app-reporte-plan-consumo-icon{
+    background-image: url(../images/icons/16X16/planConsumo.png) !important;
+}
+
+.app-reporte-plan-consumo-shortcut-icon{
+    background-image: url(../images/icons/48X48/planConsumo48.png) !important;
+}
+
+.app-reporte-plan-real-icon{
+    background-image: url(../images/icons/16X16/planReal.png) !important;
+}
+
+.app-reporte-plan-real-shortcut-icon{
+    background-image: url(../images/icons/48X48/planReal48.png) !important;
+}
+
+.app-gestion-formula-icon{
+    background-image: url(../images/icons/16X16/gestion.png) !important;
+}
+
+/* Grid Icons */
+
+.app-grid-icon {
+    background-image:url(../images/icons/16x16/grid16x16.gif) !important; 
+}
+
+.x-btn-medium .app-grid-icon {
+    background-image: url(../images/icons/24x24/grid24x24.gif) !important; 
+}
+
+.x-btn-large .app-grid-icon {
+    background-image: url(../images/icons/32x32/grid32x32.gif) !important; 
+}
+
+.app-grid-shortcut-icon {
+    background-image: url(../images/icons/48x48/grid48x48.png) !important; 
+}
+
+/* Tab Icons */
+
+.app-tab-icon {
+    background-image:url(../images/icons/16x16/tab16x16.gif) !important; 
+}
+
+.x-btn-medium .app-tab-icon {
+    background-image: url(../images/icons/24x24/tab24x24.gif) !important; 
+}
+
+.x-btn-large .app-tab-icon {
+    background-image: url(../images/icons/32x32/tab32x32.gif) !important; 
+}
+
+.app-tab-shortcut-icon {
+    background-image: url(../images/icons/48x48/tab48x48.png) !important; 
+}
+
+/* Layout Icons */
+
+.app-layout-icon {
+    background-image:url(../images/icons/16x16/layout16x16.gif) !important; 
+}
+
+.x-btn-medium .app-layout-icon {
+    background-image: url(../images/icons/24x24/layout24x24.gif) !important; 
+}
+
+.x-btn-large .app-layout-icon {
+    background-image: url(../images/icons/32x32/layout32x32.gif) !important; 
+}
+
+.app-layout-shortcut-icon {
+    background-image: url(../images/icons/48x48/layout48x48.png) !important; 
+}
+
+/* Accordion Icons */
+
+.app-accordion-icon {
+    background-image:url(../images/icons/16x16/accordion16x16.gif) !important; 
+}
+
+.x-btn-medium .app-accordion-icon {
+    background-image: url(../images/icons/24x24/accordion24x24.gif) !important; 
+}
+
+.x-btn-large .app-accordion-icon {
+    background-image: url(../images/icons/32x32/accordion32x32.gif) !important; 
+}
+
+.app-accordion-shortcut-icon {
+    background-image: url(../images/icons/48x48/accordion48x48.png) !important;

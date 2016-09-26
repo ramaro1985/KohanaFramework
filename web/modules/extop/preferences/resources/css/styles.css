@@ -1,0 +1,238 @@
+@CHARSET "UTF-8";
+
+.icon-pref-shortcut {
+	background-image: url(../images/shortcut-icon.gif);
+}
+
+.icon-pref-autorun {
+	background-image: url(../images/autorun-icon.gif);
+}
+
+.icon-pref-quickstart {
+	background-image: url(../images/quickstart-icon.gif);
+}
+
+.icon-pref-appearance {
+	background-image: url(../images/appearance-icon.gif);
+}
+
+.icon-pref-wallpaper {
+	background-image: url(../images/wallpaper-icon.gif);
+}
+
+.prev-link-item-icon {
+    float: left;
+}
+
+.prev-link-item-txt {
+    float: left;
+    padding-top: 10px;
+}
+
+.pref-percent-field {
+    background: #ffffff url(../images/percent-icon.gif) no-repeat right center;
+}
+
+#preferences-main-win .x-window-mc {
+    color: #000 !important;
+}
+
+#preferences-main-win .x-border-layout-ct {
+    background: transparent none;
+}
+
+#preferences-main-win .x-panel-header {
+    background: transparent none;
+    border-bottom: 0px none;
+}
+
+#preferences-main-win .pref-card .x-panel-header {
+    color: #000;
+}
+
+#preferences-main-win .pref-card-subpanel .x-panel-header {
+    color: #000;
+}
+
+#preferences-main-win .x-grid-group-hd div {
+    background: transparent url(../images/form-collapse-icon.gif) no-repeat
+        scroll 3px 2px;
+    padding: 4px 4px 4px 23px;
+}
+
+#preferences-main-win .x-grid-group-collapsed .x-grid-group-hd div {
+    background-position: 3px -33px;
+}
+
+#pref-win-card-1 .x-panel-body li {
+    margin: 3px 3px 15px 3px;
+}
+
+#pref-win-card-1 .x-panel-body li img {
+    width: 65px;
+    height: 55px;
+    vertical-align: middle;
+    margin-right: 7px;
+    margin-bottom: 2px;
+}
+
+#pref-win-card-1 .x-panel-body li a {
+    text-decoration: none;
+    color: #336699;
+    font-weight: bold;
+}
+
+#pref-win-card-1 .x-panel-body li span {
+    padding-left: 34px;
+}
+
+#pref-win-card-1 .x-panel-body {
+    padding: 10px
+}
+
+.pref-check-tree .x-tree-elbow,.pref-check-tree .x-tree-elbow-end {
+    width: 1px;
+}
+
+.pref-check-tree .complete .x-tree-node-anchor span {
+    color: #777;
+    text-decoration: line-through;
+}
+
+.pref-theme-groups .ux-explorerview-large-item {
+    cursor: pointer;
+    height: 100px;
+    margin: 5px 0 0 5px;
+    -moz-user-select: none;
+    width: 127px;
+}
+
+.pref-theme-groups .ux-explorerview-large-item .ux-explorerview-icon {
+    height: 75px;
+    width: 127px;
+}
+
+.pref-theme-groups .x-grid-group-hd,.pref-wallpaper-groups .x-grid-group-hd
+    {
+    border-bottom: 1px solid #ccc;
+}
+
+.pref-wallpaper-groups .ux-explorerview-large-item {
+    cursor: pointer;
+    height: 100px;
+    margin: 5px 0 0 5px;
+    -moz-user-select: none;
+    width: 127px;
+}
+
+.pref-wallpaper-groups .ux-explorerview-large-item .ux-explorerview-icon
+    {
+    height: 75px;
+    width: 127px;
+}
+
+.pref-bg-pos-center {
+    background-image: url(../images/bg-center-icon.png);
+}
+
+.pref-bg-pos-tile {
+    background-image: url(../images/bg-tile-icon.png);
+}
+
+.pref-bg-color-icon {
+    background-image: url(../images/bg-color-icon.gif) !important;
+}
+
+.pref-font-color-icon {
+    background-image: url(../images/font-color-icon.gif) !important;
+}
+
+/* DataView */
+#items {
+    background-color: #f0f3f6;
+    text-shadow: #fff 0 1px 0;
+}
+
+#items ul {
+    position: relative;
+    display: block;
+    height: auto;
+    font-size: 85%;
+    vertical-align: middle;
+}
+
+#items ul li {
+    float: left;
+    padding: 8px 17px;
+    margin: 5px;
+    text-align: center;
+    line-height: 1.25em;
+    color: #333;
+    font-family: "Helvetica Neue",sans-serif;
+    height: 80px;
+    width: 120px;
+    overflow: hidden;
+    border-top: 1px solid transparent;
+    cursor: pointer;
+}
+
+#items ul li img {
+    margin-bottom: 1px;
+}
+
+#items ul li.x-view-selected {
+    background-color: rgba(100, 100, 100, .15);
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-top: 1px solid rgba(0, 0, 0, .15);
+}
+
+#items ul li img {
+/*    display: block;*/
+}
+
+#items li strong {
+    color: #000;
+    display: block;
+}
+
+#items li span {
+    color: #999;
+}
+
+#images-view .x-panel-body{
+    background: white;
+    font: 11px Arial, Helvetica, sans-serif;
+}
+#images-view .thumb{
+
+    padding: 3px;
+}
+#images-view .thumb img{
+    width: 100px;
+}
+#images-view .thumb-wrap{
+    float: left;
+    margin: 4px;
+    margin-right: 0;
+    padding: 5px;
+}
+#images-view .thumb-wrap span{
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+#images-view .x-view-over{
+    cursor: move;
+    border:1px solid #dddddd;
+    background: #f3f3f3;
+    padding: 4px;
+}
+
+.name {
+    font-size: 11px;
+    margin: 5px 0;
+    color: #333;
+    width: 100px;
+}

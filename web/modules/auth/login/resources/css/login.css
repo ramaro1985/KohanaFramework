@@ -1,0 +1,144 @@
+body {
+	background: #fff none;
+	color: #000;
+	font-family: verdana, tahoma, arial, verdana, sans-serif;
+	font-size: 11px;
+	margin: 0;
+}
+
+p {
+	margin: 12px 0;
+}
+
+a {
+	color: #ffcc33;
+}
+
+img {
+	border: 0 none;
+}
+
+input,textarea {
+	font-family: verdana, tahoma, arial, verdana, sans-serif;
+	font-size: 12px;
+	padding: 3px;
+}
+
+.key {
+	text-decoration: underline;
+}
+
+.qo-abs-position {
+	position: absolute;
+}
+
+#qo-panel {
+	background: transparent url(../images/bg-panel.jpg)
+		no-repeat;
+	height: 521px;
+	left: 50%;
+	margin-left: -404px;
+	margin-top: -260px;
+	position: absolute;
+	top: 50%;
+	width: 808px;
+}
+
+.qo-logo {
+	background: transparent
+		url(../images/logo-qwikioffice.png) no-repeat;
+	height: 130px;
+	left: 52px;
+	top: 0px;
+	width: 420px;
+}
+
+.qo-benefits {
+    color: #DFDFDF;
+    font-weight: bold;
+	left: 62px;
+	top: 100px;
+	width: 300px;
+}
+
+.qo-screenshot {
+	background: transparent url(../images/screenshot.png)
+		no-repeat;
+	height: 190px;
+	left: 37px;
+	top: 245px;
+	width: 329px;
+}
+
+.qo-extjs-logo {
+	background: transparent url(../images/logo-extjs.gif)
+		no-repeat;
+	height: 18px;
+	left: 152px;
+	top: 469px;
+	width: 85px;
+}
+
+.qo-kohana-logo {
+	background: transparent url(../images/logo-kohana.png)
+		no-repeat;
+	height: 18px;
+	left: 52px;
+	top: 469px;
+	width: 85px;
+}
+
+.qo-library {
+	left: 54px;
+	top: 489px;
+}
+
+.qo-library a {
+	color: #0000ff;
+}
+
+.qo-supported {
+	color: #ffffff;
+	left: 618px;
+	top: 45px;
+}
+
+#field1-label {
+	left: 410px;
+	top: 300px;
+}
+
+#field1 {
+	left: 500px;
+	top: 298px;
+	width: 200px;
+}
+
+#field2-label {
+	left: 410px;
+	top: 335px;
+}
+
+#field2 {
+	left: 500px;
+	top: 333px;
+	width: 200px;
+}
+
+.qo-submit {
+	background: transparent url(../images/login.gif) no-repeat
+		0 0;
+	height: 22px;
+	left: 665px;
+	top: 373px;
+	width: 43px;
+}
+
+.qo-submit-over {
+	background: transparent url(../images/login.gif) no-repeat
+		0 -38px;
+	height: 22px;
+	left: 665px;
+	top: 373px;
+	width: 43px;
+}

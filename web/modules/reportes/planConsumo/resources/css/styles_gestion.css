@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+.gestion {
+    background-image: url(../images/gestion.png)
+        !important;
+}
+.add{
+    background-image: url(../images/add.png)
+        !important;
+}
+.delete{
+    background-image: url(../images/delete.gif)
+        !important;
+}
+.edit{
+    background-image: url(../images/edit.png)
+        !important;
+}
+.save{
+    background-image: url(../images/disk.png)
+        !important;
+}
+.ok{
+    background-image: url(../images/ok.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: left;
+    
+}
+
+.planConsumo{
+    background-image: url(../images/planConsumo.png)
+        !important;
+}
+.max-gestion {
+    width: 100%;
+}
